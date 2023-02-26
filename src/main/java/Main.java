@@ -1,4 +1,4 @@
-package org.example.MyMvn;
+import org.example.MyMvn.Count;
 public class Main {
 
     public static void main(String[] args){
